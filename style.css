@@ -46,11 +46,11 @@ body {
 
 }
 
-@media (max-width: 600px) {
-  .container .contenido h1{
-      fonte-size: 30px;
+@media screen and (min-width: 800px) {
+  .container {
+    width: 350px;
   }
-    .container .contenido p {
-    font-size: 19px;
+    .container .contenido h1 {
+    font-size: 30px;
 }
 }
