@@ -46,8 +46,11 @@ body {
 
 }
 
-@media only screen and (max-width: 600px) {
-  .container{
-      width: 300px;
+@media (max-width: 600px) {
+  .container .contenido h1{
+      fonte-size: 30px;
   }
+    .container .contenido p {
+    font-size: 19px;
+}
 }
