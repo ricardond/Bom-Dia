@@ -1,2 +1,2 @@
 # Bom-Dia
-Bom dia com coração animado.
+Bom dia com coração animado. Feito para quem admiro.
